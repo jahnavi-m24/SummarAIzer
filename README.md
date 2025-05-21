@@ -1,4 +1,4 @@
-# summarizing Assistant Extension 🔍🧠
+# summarizing Assistant Extension 🔍
 
 A Chrome Extension built using **Spring Boot** and **AI integration** that helps users summarize selected text from web pages with a single click. Ideal for researchers, students, and content writers.
 
